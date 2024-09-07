@@ -21,6 +21,7 @@ The Linux operating system can be broken down into layers:
 | Shell          | A command-line interface (CLI), also known as a shell, that a user can enter commands into to execute the kernel's functions.                                              |
 | System Utility | Makes available to the user all of the operating system's functionality.                                                                                                  |
 
+
 ## File System Hierarchy
 
 The Linux operating system is structured in a tree-like hierarchy and is documented in the Filesystem Hierarchy Standard (FHS). Linux is structured with the following standard top-level directories:
